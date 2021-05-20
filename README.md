@@ -22,6 +22,6 @@ The members are identified by their CMS Certification Number, or CCNs, provided 
 The [code](https://github.com/jhuo7/the_healthcare_divide/blob/main/npr_regressions_safetynet_export.do) was written in Stata. The results are [here](https://github.com/jhuo7/the_healthcare_divide/blob/main/safetynet_regressions_3.xlsx)
 
 ## Analyzing supplemental payment data in Tenessee
-Download Joint Annual Report data used for the analysis [here](https://drive.google.com/drive/folders/1K1hiUFRyfpjLcvcf7pFePo48fS3Fijtz?usp=sharing)
+Download Joint Annual Report data used for the analysis [here](https://drive.google.com/drive/folders/1K1hiUFRyfpjLcvcf7pFePo48fS3Fijtz?usp=sharing)<br>
 [Jupyter notebook used to pull JAR data](https://github.com/jhuo7/the_healthcare_divide/blob/main/20210414_parsing_doh_jar_files.ipynb)<br>
 [Jupyter notebook containing data analysis](https://github.com/jhuo7/the_healthcare_divide/blob/main/20210517_healthcare_divide_for_sharing.ipynb)
