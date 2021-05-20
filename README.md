@@ -19,7 +19,7 @@ Since there is no set definition for safety net hospitals (see [journal article]
 
 The members are identified by their CMS Certification Number, or CCNs, provided by AEH. We did not include members that do not have their own CCNs.
 
-The code [link to code]was written in Stata.
+The [code](https://github.com/jhuo7/the_healthcare_divide/blob/main/npr_regressions_safetynet_export.do) was written in Stata. The results are [here](https://github.com/jhuo7/the_healthcare_divide/blob/main/safetynet_regressions_3.xlsx)
 
 ## Analyzing supplemental payment data in Tenessee
 See Jupyter notebook
