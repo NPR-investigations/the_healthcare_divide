@@ -17,7 +17,7 @@ We identified acute care hospitals through filtering out children's hospitals, w
 
 Since there is no set definition for safety net hospitals (see [journal article](https://www.nejm.org/doi/full/10.1056/NEJMp2030228)), we use the [member list of America's Essential Hospitals](https://essentialhospitals.org/about/listing-of-americas-essential-hospitals-members/) and see how they fared compared to non members, controlling for urban/rural, market as defined by hospital referral regions, and week.
 
-The members are identified by their CMS Certification Number, or CCNs, provided by AEH. We did not include members that do not have their own CCNs.
+The members are identified by their CMS Certification Number, or CCNs, provided by AEH. We did not include members that do not have their own CCNs. The list of CCNs is [here](https://github.com/jhuo7/the_healthcare_divide/blob/main/AEHMemberIDs.csv)
 
 The [code](https://github.com/jhuo7/the_healthcare_divide/blob/main/npr_regressions_safetynet_export.do) was written in Stata. The results are [here](https://github.com/jhuo7/the_healthcare_divide/blob/main/safetynet_regressions_3.xlsx)
 
