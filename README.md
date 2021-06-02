@@ -7,7 +7,7 @@ https://www.npr.org/2021/05/18/996207511/hospitals-serving-the-poor-struggled-du
 
 The collaboration looks at the differences between the hospital haves and the hospital have nots, with a focus on urban safety net hospitals.<br>
 
-# HHS hospital capacity data analysis
+## HHS hospital capacity data analysis
 
 Zachary Levin, PhD Student at the University of Minnesota School of Public Health, and Pinar Karaca-Mandic, PhD, Professor at Carlson School of Management, University of Minnesota conducted this analysis with input from NPR.
 
