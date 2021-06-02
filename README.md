@@ -1,6 +1,6 @@
 # Data Analysis for The Healthcare Divide project
 
-Stories reported by Emma Schwartz, Laura Sullivan, Nick Verbitsky and I.<br>
+Stories reported by Emma Schwartz, Laura Sullivan, Nick Verbitsky and Huo Jingnan.<br>
 Links are below<br>
 https://www.pbs.org/wgbh/frontline/film/the-healthcare-divide/<br>
 https://www.npr.org/2021/05/18/996207511/hospitals-serving-the-poor-struggled-during-covid-wealthy-hospitals-made-million<br>
