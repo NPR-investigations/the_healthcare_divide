@@ -9,7 +9,7 @@ The collaboration looks at the differences between the hospital haves and the ho
 
 # HHS hospital capacity data analysis
 
-Zachary Levin. PhD Student at the University of Minnesota School of Public Health, and Pinar Karaca-Mandic, PhD, Professor at Carlson School of Management, University of Minnesota conducted this analysis with input from NPR.
+Zachary Levin, PhD Student at the University of Minnesota School of Public Health, and Pinar Karaca-Mandic, PhD, Professor at Carlson School of Management, University of Minnesota conducted this analysis with input from NPR.
 
 Using [HHS's COVID-19 Reported Patient Impact and Hospital Capacity dataset](https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), we compared the adult inpatient bed occupancy rate of acute care safety net hospitals with other acute care hospitals between August 2020 and the first week of May. 
 
